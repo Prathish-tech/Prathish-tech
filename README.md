@@ -24,13 +24,6 @@ Hello! 👋 I’m Prathish, an enthusiastic Electronics and Communication Engine
 
  ~Secure a comfortable future for my family through tech skills
 
-📫 How to Reach Me
----
 
-Email: prathishs.2004@gmail.com
-
-LinkedIn: linkedin.com/in/prathish-s-522865258
-
-GitHub: github.com/Prathish-tech
 
 
