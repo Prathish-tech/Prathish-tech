@@ -29,8 +29,8 @@ Hello! 👋 I’m Prathish, an enthusiastic Electronics and Communication Engine
 
 Email: prathishs.2004@gmail.com
 
-LinkedIn: linkedin.com/in/yourprofile
+LinkedIn: linkedin.com/in/prathish-s-522865258
 
-GitHub: github.com/yourusername
+GitHub: github.com/Prathish-tech
 
 
