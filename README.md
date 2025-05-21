@@ -1,12 +1,36 @@
-- 👋 Hi, I’m prathish
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development(React, MYSQL, Django)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+About Me
+---
+Hello! 👋 I’m Prathish, an enthusiastic Electronics and Communication Engineering student and aspiring full-stack developer.
 
-<!---
-Prathish-tech/Prathish-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 Skills & Interests
+---
+
+ ~Frontend: React.js, JavaScript, HTML, CSS
+
+ ~Backend: Django, Python, REST APIs
+
+ ~Database: MySQL, SQLite
+
+ ~Current Learning: MERN Stack, Advanced Python
+
+🎯 Goals
+---
+
+ ~Build impactful software that makes life easier
+
+ ~Complete full-stack projects integrating hardware and software
+
+ ~Grow as a developer and contribute to open-source communities
+
+ ~Secure a comfortable future for my family through tech skills
+
+📫 How to Reach Me
+---
+
+Email: prathishs.2004@gmail.com
+
+LinkedIn: linkedin.com/in/yourprofile
+
+GitHub: github.com/yourusername
+
+
