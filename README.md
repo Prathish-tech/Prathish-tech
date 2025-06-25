@@ -1,6 +1,6 @@
 About Me
 ---
-Hello! 👋 I’m Prathish, an enthusiastic Electronics and Communication Engineering student and aspiring full-stack developer.
+Hello! 👋 I’m Prathish, an enthusiastic Electronics and Communication Engineering student and a Full-Stack Web Developer.
 
 👨‍💻 Skills & Interests
 ---
