@@ -9,9 +9,9 @@ Hello! 👋 I’m Prathish, an enthusiastic Electronics and Communication Engine
 
  ~Backend: Django, Python, REST APIs
 
- ~Database: MySQL, SQLite
+ ~Database: MySQL
 
- ~Current Learning: MERN Stack, Advanced Python
+ ~Current Learning: Java Full stack Development
 
 🎯 Goals
 ---
